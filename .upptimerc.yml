@@ -61,3 +61,7 @@ status-website:
 
 i18n:
   footer: Powered by <a href='https://ononoki.org/' rel='noopener' target='_blank'><strong>ononoki</strong></a>.
+
+skipDescriptionUpdate: true
+skipTopicsUpdate: true
+skipHomepageUpdate: true
