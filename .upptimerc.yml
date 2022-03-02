@@ -57,7 +57,7 @@ status-website:
       href: /
     - title: Homepage
       href: https://ononoki.org/
-  customHeadHtml: <script>var _paq=window._paq=window._paq||[];_paq.push(["setDocumentTitle",document.domain+"/"+document.title]);_paq.push(["setCookieDomain","*.ononoki.org"]);_paq.push(["setDomains","*.ononoki.org"]);_paq.push(['trackPageView']);_paq.push(['trackAllContentImpressions']);_paq.push(['enableLinkTracking']);_paq.push(['enableHeartBeatTimer',1]);(function(){var u="https://ononoki.org/m/";_paq.push(['setTrackerUrl',u+'m.php']);_paq.push(['setSiteId','8']);var d=document,g=d.createElement('script'),s=d.getElementsByTagName('script')[0];g.async=true;g.src=u+'m.js';s.parentNode.insertBefore(g,s);})();</script><noscript><p><img src="https://ononoki.org/m/m.php?idsite=8&amp;rec=1" style="border:0;" alt="" /></p></noscript>
+  customHeadHtml: <script src="https://ononoki.org/js/m.js"></script><noscript><p><img src="https://ononoki.org/m/m.php?idsite=8&amp;rec=1" style="border:0;" alt="" /></p></noscript>
 
 i18n:
   footer: Powered by <a href='https://ononoki.org/' rel='noopener' target='_blank'><strong>ononoki</strong></a>.
