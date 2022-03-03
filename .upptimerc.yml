@@ -18,6 +18,10 @@ sites:
     url: https://morty.ononoki.org/
     expectedStatusCodes:
       - 200
+  - name: Matomo
+    url: https://data.ononoki.org/
+    expectedStatusCodes:
+      - 200
   - name: Blog
     url: https://blog.ononoki.org/
     expectedStatusCodes:
