@@ -187,19 +187,17 @@
     "icon": "https://favicons.githubusercontent.com/resume.ononoki.org",
     "slug": "resume",
     "status": "up",
-    "uptime": "1.95%",
-    "uptimeDay": "1.95%",
-    "uptimeWeek": "1.95%",
-    "uptimeMonth": "1.95%",
-    "uptimeYear": "1.95%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 581,
     "timeDay": 581,
     "timeWeek": 581,
     "timeMonth": 581,
     "timeYear": 581,
-    "dailyMinutesDown": {
-      "2022-03-27": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "2048",
@@ -243,19 +241,17 @@
     "icon": "https://favicons.githubusercontent.com/www.ononoki.org",
     "slug": "www",
     "status": "up",
-    "uptime": "2.02%",
-    "uptimeDay": "2.02%",
-    "uptimeWeek": "2.02%",
-    "uptimeMonth": "2.02%",
-    "uptimeYear": "2.02%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 330,
     "timeDay": 330,
     "timeWeek": 330,
     "timeMonth": 330,
     "timeYear": 330,
-    "dailyMinutesDown": {
-      "2022-03-27": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Diary",
