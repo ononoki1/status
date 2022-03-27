@@ -44,7 +44,7 @@ sites:
   - name: Resume
     url: https://resume.ononoki.org/
     expectedStatusCodes:
-      - 301
+      - 302
   - name: "2048"
     url: https://2048.ononoki.org/
     expectedStatusCodes:
