@@ -34,7 +34,7 @@ sites:
     expectedStatusCodes:
       - 200
   - name: Font
-    url: https://font.ononoki.org/font.css
+    url: https://font.ononoki.org/s/firamono/v12/N0bX2SlFPv1weGeLZDtgJv7S.woff2
     expectedStatusCodes:
       - 200
   - name: Paste
@@ -45,6 +45,7 @@ sites:
     url: https://resume.ononoki.org/
     expectedStatusCodes:
       - 302
+      - 200
   - name: "2048"
     url: https://2048.ononoki.org/
     expectedStatusCodes:
@@ -57,6 +58,7 @@ sites:
     url: https://www.ononoki.org/
     expectedStatusCodes:
       - 301
+      - 200
   - name: Diary
     url: https://diary.ononoki.org/
     expectedStatusCodes:
