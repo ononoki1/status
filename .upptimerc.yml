@@ -1,6 +1,5 @@
 owner: ononoki1
 repo: status
-
 sites:
   - name: DNS
     check: tcp-ping
@@ -42,7 +41,11 @@ sites:
     url: https://paste.ononoki.org/
     expectedStatusCodes:
       - 200
-  - name: '2048'
+  - name: Resume
+    url: https://resume.ononoki.org/
+    expectedStatusCodes:
+      - 301
+  - name: "2048"
     url: https://2048.ononoki.org/
     expectedStatusCodes:
       - 200
@@ -50,7 +53,14 @@ sites:
     url: https://ip.ononoki.org/
     expectedStatusCodes:
       - 200
-
+  - name: WWW
+    url: https://www.ononoki.org/
+    expectedStatusCodes:
+      - 301
+  - name: Diary
+    url: https://diary.ononoki.org/
+    expectedStatusCodes:
+      - 401
 status-website:
   cname: status.ononoki.org
   logoUrl: https://ononoki.org/images/ononoki.jpg
@@ -62,10 +72,8 @@ status-website:
     - title: Homepage
       href: https://ononoki.org/
   customHeadHtml: <script src="https://ononoki.org/js/m.js"></script><noscript><p><img src="https://ononoki.org/m/m.php?idsite=8&amp;rec=1" style="border:0;" alt="" /></p></noscript>
-
 i18n:
   footer: Powered by <a href='https://ononoki.org/' rel='noopener' target='_blank'><strong>ononoki</strong></a>.
-
 skipDescriptionUpdate: true
 skipTopicsUpdate: true
 skipHomepageUpdate: true
