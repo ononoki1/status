@@ -1,0 +1,79 @@
+owner: ononoki1
+repo: status
+sites:
+  - name: DNS
+    check: tcp-ping
+    url: 107.172.8.80
+    port: 53
+  - name: Homepage
+    url: https://ononoki.org/
+    expectedStatusCodes:
+      - 200
+  - name: Search
+    url: https://search.ononoki.org/
+    expectedStatusCodes:
+      - 200
+  - name: Morty
+    url: https://morty.ononoki.org/
+    expectedStatusCodes:
+      - 200
+  - name: Matomo
+    url: https://data.ononoki.org/
+    expectedStatusCodes:
+      - 200
+  - name: Blog
+    url: https://blog.ononoki.org/
+    expectedStatusCodes:
+      - 200
+  - name: Comment
+    url: https://comment.ononoki.org/
+    expectedStatusCodes:
+      - 200
+  - name: Drive
+    url: https://drive.ononoki.org/
+    expectedStatusCodes:
+      - 200
+  - name: Font
+    url: https://font.ononoki.org/font.css
+    expectedStatusCodes:
+      - 200
+  - name: Paste
+    url: https://paste.ononoki.org/
+    expectedStatusCodes:
+      - 200
+  - name: Resume
+    url: https://resume.ononoki.org/
+    expectedStatusCodes:
+      - 301
+  - name: "2048"
+    url: https://2048.ononoki.org/
+    expectedStatusCodes:
+      - 200
+  - name: IP
+    url: https://ip.ononoki.org/
+    expectedStatusCodes:
+      - 200
+  - name: WWW
+    url: https://www.ononoki.org/
+    expectedStatusCodes:
+      - 301
+  - name: Diary
+    url: https://diary.ononoki.org/
+    expectedStatusCodes:
+      - 401
+status-website:
+  cname: status.ononoki.org
+  logoUrl: https://ononoki.org/images/ononoki.jpg
+  name: ononoki's Status
+  introTitle: ononoki's Status
+  navbar:
+    - title: Status
+      href: /
+    - title: Homepage
+      href: https://ononoki.org/
+  customHeadHtml: <script src="https://ononoki.org/js/m.js"></script><noscript><p><img src="https://ononoki.org/m/m.php?idsite=8&amp;rec=1" style="border:0;" alt="" /></p></noscript>
+i18n:
+  footer: Powered by <a href='https://ononoki.org/' rel='noopener' target='_blank'><strong>ononoki</strong></a>.
+skipDescriptionUpdate: true
+skipTopicsUpdate: true
+skipHomepageUpdate: true
