@@ -23,19 +23,17 @@
     "icon": "https://favicons.githubusercontent.com/ononoki.org",
     "slug": "homepage",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.17%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 215,
     "timeDay": 201,
     "timeWeek": 244,
     "timeMonth": 212,
     "timeYear": 215,
-    "dailyMinutesDown": {
-      "2022-03-30": 12
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Search",
@@ -81,18 +79,18 @@
     "icon": "https://favicons.githubusercontent.com/data.ononoki.org",
     "slug": "matomo",
     "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "99.14%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
+    "uptime": "99.92%",
+    "uptimeDay": "97.77%",
+    "uptimeWeek": "99.68%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.92%",
     "time": 501,
     "timeDay": 713,
     "timeWeek": 601,
     "timeMonth": 501,
     "timeYear": 501,
     "dailyMinutesDown": {
-      "2022-03-30": 12
+      "2022-03-30": 32
     }
   },
   {
@@ -101,19 +99,17 @@
     "icon": "https://favicons.githubusercontent.com/blog.ononoki.org",
     "slug": "blog",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.17%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 238,
     "timeDay": 297,
     "timeWeek": 276,
     "timeMonth": 234,
     "timeYear": 238,
-    "dailyMinutesDown": {
-      "2022-03-30": 12
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Comment",
@@ -156,19 +152,19 @@
     "url": "https://font.ononoki.org/s/firamono/v12/N0bX2SlFPv1weGeLZDtgJv7S.woff2",
     "icon": "https://favicons.githubusercontent.com/font.ononoki.org",
     "slug": "font",
-    "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "99.16%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 149,
-    "timeDay": 119,
-    "timeWeek": 189,
-    "timeMonth": 137,
-    "timeYear": 149,
+    "status": "up",
+    "uptime": "99.93%",
+    "uptimeDay": "97.80%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
+    "time": 157,
+    "timeDay": 290,
+    "timeWeek": 214,
+    "timeMonth": 146,
+    "timeYear": 157,
     "dailyMinutesDown": {
-      "2022-03-30": 12
+      "2022-03-30": 32
     }
   },
   {
@@ -176,19 +172,19 @@
     "url": "https://paste.ononoki.org/",
     "icon": "https://favicons.githubusercontent.com/paste.ononoki.org",
     "slug": "paste",
-    "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.18%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 202,
     "timeDay": 74,
     "timeWeek": 252,
     "timeMonth": 188,
     "timeYear": 202,
     "dailyMinutesDown": {
-      "2022-03-30": 12
+      "2022-03-30": 0
     }
   },
   {
@@ -196,19 +192,19 @@
     "url": "https://resume.ononoki.org/",
     "icon": "https://favicons.githubusercontent.com/resume.ononoki.org",
     "slug": "resume",
-    "status": "down",
-    "uptime": "99.73%",
-    "uptimeDay": "99.17%",
-    "uptimeWeek": "99.73%",
-    "uptimeMonth": "99.73%",
-    "uptimeYear": "99.73%",
-    "time": 376,
-    "timeDay": 177,
-    "timeWeek": 376,
-    "timeMonth": 376,
-    "timeYear": 376,
+    "status": "up",
+    "uptime": "99.30%",
+    "uptimeDay": "97.81%",
+    "uptimeWeek": "99.30%",
+    "uptimeMonth": "99.30%",
+    "uptimeYear": "99.30%",
+    "time": 402,
+    "timeDay": 368,
+    "timeWeek": 402,
+    "timeMonth": 402,
+    "timeYear": 402,
     "dailyMinutesDown": {
-      "2022-03-30": 12
+      "2022-03-30": 32
     }
   },
   {
@@ -217,19 +213,17 @@
     "icon": "https://favicons.githubusercontent.com/2048.ononoki.org",
     "slug": "2048",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.19%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 167,
     "timeDay": 64,
     "timeWeek": 163,
     "timeMonth": 161,
     "timeYear": 167,
-    "dailyMinutesDown": {
-      "2022-03-30": 12
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "IP",
@@ -237,18 +231,18 @@
     "icon": "https://favicons.githubusercontent.com/ip.ononoki.org",
     "slug": "ip",
     "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "99.18%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
+    "uptime": "99.93%",
+    "uptimeDay": "97.80%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
     "time": 138,
     "timeDay": 97,
     "timeWeek": 171,
     "timeMonth": 132,
     "timeYear": 138,
     "dailyMinutesDown": {
-      "2022-03-30": 12
+      "2022-03-30": 32
     }
   },
   {
@@ -257,38 +251,36 @@
     "icon": "https://favicons.githubusercontent.com/www.ononoki.org",
     "slug": "www",
     "status": "up",
-    "uptime": "99.74%",
-    "uptimeDay": "99.19%",
-    "uptimeWeek": "99.74%",
-    "uptimeMonth": "99.74%",
-    "uptimeYear": "99.74%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 212,
     "timeDay": 102,
     "timeWeek": 212,
     "timeMonth": 212,
     "timeYear": 212,
-    "dailyMinutesDown": {
-      "2022-03-30": 12
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Diary",
     "url": "https://diary.ononoki.org/",
     "icon": "https://favicons.githubusercontent.com/diary.ononoki.org",
     "slug": "diary",
-    "status": "down",
-    "uptime": "99.74%",
-    "uptimeDay": "99.19%",
-    "uptimeWeek": "99.74%",
-    "uptimeMonth": "99.74%",
-    "uptimeYear": "99.74%",
-    "time": 136,
-    "timeDay": 89,
-    "timeWeek": 136,
-    "timeMonth": 136,
-    "timeYear": 136,
+    "status": "up",
+    "uptime": "99.31%",
+    "uptimeDay": "97.82%",
+    "uptimeWeek": "99.31%",
+    "uptimeMonth": "99.31%",
+    "uptimeYear": "99.31%",
+    "time": 179,
+    "timeDay": 265,
+    "timeWeek": 179,
+    "timeMonth": 179,
+    "timeYear": 179,
     "dailyMinutesDown": {
-      "2022-03-30": 12
+      "2022-03-30": 31
     }
   }
 ]
