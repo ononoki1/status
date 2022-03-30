@@ -22,10 +22,10 @@
     "url": "https://ononoki.org/",
     "icon": "https://favicons.githubusercontent.com/ononoki.org",
     "slug": "homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 216,
@@ -33,7 +33,9 @@
     "timeWeek": 252,
     "timeMonth": 213,
     "timeYear": 216,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-30": 1
+    }
   },
   {
     "name": "Search",
@@ -78,10 +80,10 @@
     "url": "https://data.ononoki.org/",
     "icon": "https://favicons.githubusercontent.com/data.ononoki.org",
     "slug": "matomo",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 501,
@@ -89,17 +91,19 @@
     "timeWeek": 601,
     "timeMonth": 501,
     "timeYear": 501,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-30": 1
+    }
   },
   {
     "name": "Blog",
     "url": "https://blog.ononoki.org/",
     "icon": "https://favicons.githubusercontent.com/blog.ononoki.org",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 232,
@@ -107,7 +111,9 @@
     "timeWeek": 255,
     "timeMonth": 227,
     "timeYear": 232,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-30": 1
+    }
   },
   {
     "name": "Comment",
@@ -150,10 +156,10 @@
     "url": "https://font.ononoki.org/s/firamono/v12/N0bX2SlFPv1weGeLZDtgJv7S.woff2",
     "icon": "https://favicons.githubusercontent.com/font.ononoki.org",
     "slug": "font",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 149,
@@ -161,17 +167,19 @@
     "timeWeek": 189,
     "timeMonth": 137,
     "timeYear": 149,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-30": 1
+    }
   },
   {
     "name": "Paste",
     "url": "https://paste.ononoki.org/",
     "icon": "https://favicons.githubusercontent.com/paste.ononoki.org",
     "slug": "paste",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 206,
@@ -179,34 +187,38 @@
     "timeWeek": 275,
     "timeMonth": 193,
     "timeYear": 206,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-30": 1
+    }
   },
   {
     "name": "Resume",
     "url": "https://resume.ononoki.org/",
     "icon": "https://favicons.githubusercontent.com/resume.ononoki.org",
     "slug": "resume",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 376,
     "timeDay": 177,
     "timeWeek": 376,
     "timeMonth": 376,
     "timeYear": 376,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-30": 0
+    }
   },
   {
     "name": "2048",
     "url": "https://2048.ononoki.org/",
     "icon": "https://favicons.githubusercontent.com/2048.ononoki.org",
     "slug": "2048",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -215,16 +227,18 @@
     "timeWeek": 177,
     "timeMonth": 165,
     "timeYear": 171,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-30": 0
+    }
   },
   {
     "name": "IP",
     "url": "https://ip.ononoki.org/",
     "icon": "https://favicons.githubusercontent.com/ip.ononoki.org",
     "slug": "ip",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -233,34 +247,38 @@
     "timeWeek": 171,
     "timeMonth": 132,
     "timeYear": 138,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-30": 0
+    }
   },
   {
     "name": "WWW",
     "url": "https://www.ononoki.org/",
     "icon": "https://favicons.githubusercontent.com/www.ononoki.org",
     "slug": "www",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 239,
     "timeDay": 153,
     "timeWeek": 239,
     "timeMonth": 239,
     "timeYear": 239,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-30": 0
+    }
   },
   {
     "name": "Diary",
     "url": "https://diary.ononoki.org/",
     "icon": "https://favicons.githubusercontent.com/diary.ononoki.org",
     "slug": "diary",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -269,6 +287,8 @@
     "timeWeek": 136,
     "timeMonth": 136,
     "timeYear": 136,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-30": 0
+    }
   }
 ]
