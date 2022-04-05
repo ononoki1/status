@@ -41,10 +41,14 @@ sites:
     url: https://paste.ononoki.org/
     expectedStatusCodes:
       - 200
+  - name: Index
+    url: https://index.ononoki.org/
+    expectedStatusCodes:
+      - 200
   - name: Resume
     url: https://resume.ononoki.org/
     expectedStatusCodes:
-      - 302
+      - 301
       - 200
   - name: "2048"
     url: https://2048.ononoki.org/
