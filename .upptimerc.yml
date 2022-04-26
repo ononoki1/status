@@ -18,7 +18,7 @@ sites:
     expectedStatusCodes:
       - 200
   - name: Matomo
-    url: https://data.ononoki.org/
+    url: https://data.ononoki.org/README.md
     expectedStatusCodes:
       - 200
   - name: Blog
