@@ -80,9 +80,9 @@
     "url": "https://data.ononoki.org/",
     "icon": "https://favicons.githubusercontent.com/data.ononoki.org",
     "slug": "matomo",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.66%",
     "uptimeYear": "99.81%",
@@ -92,6 +92,7 @@
     "timeMonth": 744,
     "timeYear": 650,
     "dailyMinutesDown": {
+      "2022-04-26": 0,
       "2022-04-09": 88,
       "2022-03-30": 59
     }
