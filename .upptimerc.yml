@@ -17,10 +17,6 @@ sites:
     url: https://morty.ononoki.org/
     expectedStatusCodes:
       - 200
-  - name: Matomo
-    url: https://data.ononoki.org/README.md
-    expectedStatusCodes:
-      - 200
   - name: Blog
     url: https://blog.ononoki.org/
     expectedStatusCodes:
@@ -33,10 +29,6 @@ sites:
     url: https://drive.ononoki.org/
     expectedStatusCodes:
       - 200
-  - name: Font
-    url: https://font.ononoki.org/s/firamono/v12/N0bX2SlFPv1weGeLZDtgJv7S.woff2
-    expectedStatusCodes:
-      - 200
   - name: Paste
     url: https://paste.ononoki.org/
     expectedStatusCodes:
@@ -44,11 +36,6 @@ sites:
   - name: Index
     url: https://index.ononoki.org/
     expectedStatusCodes:
-      - 200
-  - name: Resume
-    url: https://resume.ononoki.org/
-    expectedStatusCodes:
-      - 301
       - 200
   - name: "2048"
     url: https://2048.ononoki.org/
@@ -58,15 +45,6 @@ sites:
     url: https://ip.ononoki.org/
     expectedStatusCodes:
       - 200
-  - name: WWW
-    url: https://www.ononoki.org/
-    expectedStatusCodes:
-      - 301
-      - 200
-  - name: Diary
-    url: https://diary.ononoki.org/
-    expectedStatusCodes:
-      - 401
 status-website:
   cname: status.ononoki.org
   logoUrl: https://ononoki.org/images/ononoki.jpg
