@@ -3,7 +3,7 @@ repo: status
 sites:
   - name: DNS
     check: tcp-ping
-    url: 107.172.8.80
+    url: ns1.ononoki.org
     port: 53
   - name: Homepage
     url: https://ononoki.org/
