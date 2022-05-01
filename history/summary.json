@@ -40,9 +40,9 @@
     "url": "https://search.ononoki.org/",
     "icon": "https://favicons.githubusercontent.com/search.ononoki.org",
     "slug": "search",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.91%",
@@ -52,6 +52,7 @@
     "timeMonth": 272,
     "timeYear": 433,
     "dailyMinutesDown": {
+      "2022-05-01": 0,
       "2022-04-09": 35,
       "2022-04-05": 31,
       "2022-03-18": 18
@@ -62,9 +63,9 @@
     "url": "https://morty.ononoki.org/",
     "icon": "https://favicons.githubusercontent.com/morty.ononoki.org",
     "slug": "morty",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -73,16 +74,18 @@
     "timeWeek": 284,
     "timeMonth": 314,
     "timeYear": 261,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-01": 0
+    }
   },
   {
     "name": "Blog",
     "url": "https://blog.ononoki.org/",
     "icon": "https://favicons.githubusercontent.com/blog.ononoki.org",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -91,16 +94,18 @@
     "timeWeek": 253,
     "timeMonth": 235,
     "timeYear": 232,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-01": 0
+    }
   },
   {
     "name": "Comment",
     "url": "https://comment.ononoki.org/",
     "icon": "https://favicons.githubusercontent.com/comment.ononoki.org",
     "slug": "comment",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -109,16 +114,18 @@
     "timeWeek": 3381,
     "timeMonth": 3316,
     "timeYear": 3251,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-01": 0
+    }
   },
   {
     "name": "Drive",
     "url": "https://drive.ononoki.org/",
     "icon": "https://favicons.githubusercontent.com/drive.ononoki.org",
     "slug": "drive",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -127,16 +134,18 @@
     "timeWeek": 80,
     "timeMonth": 75,
     "timeYear": 85,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-01": 0
+    }
   },
   {
     "name": "Paste",
     "url": "https://paste.ononoki.org/",
     "icon": "https://favicons.githubusercontent.com/paste.ononoki.org",
     "slug": "paste",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -146,6 +155,7 @@
     "timeMonth": 238,
     "timeYear": 215,
     "dailyMinutesDown": {
+      "2022-05-01": 0,
       "2022-03-30": 15
     }
   },
@@ -154,9 +164,9 @@
     "url": "https://index.ononoki.org/",
     "icon": "https://favicons.githubusercontent.com/index.ononoki.org",
     "slug": "index",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -165,16 +175,18 @@
     "timeWeek": 204,
     "timeMonth": 206,
     "timeYear": 206,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-01": 0
+    }
   },
   {
     "name": "2048",
     "url": "https://2048.ononoki.org/",
     "icon": "https://favicons.githubusercontent.com/2048.ononoki.org",
     "slug": "2048",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -183,16 +195,18 @@
     "timeWeek": 141,
     "timeMonth": 157,
     "timeYear": 166,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-01": 0
+    }
   },
   {
     "name": "IP",
     "url": "https://ip.ononoki.org/",
     "icon": "https://favicons.githubusercontent.com/ip.ononoki.org",
     "slug": "ip",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
@@ -202,6 +216,7 @@
     "timeMonth": 148,
     "timeYear": 140,
     "dailyMinutesDown": {
+      "2022-05-01": 0,
       "2022-03-30": 47
     }
   }
