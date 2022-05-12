@@ -9,12 +9,8 @@ sites:
     url: https://ononoki.org/
     expectedStatusCodes:
       - 200
-  - name: Search
-    url: https://search.ononoki.org/
-    expectedStatusCodes:
-      - 200
-  - name: Morty
-    url: https://morty.ononoki.org/
+  - name: "2048"
+    url: https://2048.ononoki.org/
     expectedStatusCodes:
       - 200
   - name: Blog
@@ -29,20 +25,32 @@ sites:
     url: https://drive.ononoki.org/
     expectedStatusCodes:
       - 200
-  - name: Paste
-    url: https://paste.ononoki.org/
-    expectedStatusCodes:
-      - 200
   - name: Index
     url: https://index.ononoki.org/
     expectedStatusCodes:
       - 200
-  - name: "2048"
-    url: https://2048.ononoki.org/
-    expectedStatusCodes:
-      - 200
   - name: IP
     url: https://ip.ononoki.org/
+    expectedStatusCodes:
+      - 200
+  - name: Morty
+    url: https://morty.ononoki.org/
+    expectedStatusCodes:
+      - 200
+  - name: Paste
+    url: https://paste.ononoki.org/
+    expectedStatusCodes:
+      - 200
+  - name: Resume
+    url: https://resume.ononoki.org/
+    expectedStatusCodes:
+      - 200
+  - name: Search
+    url: https://search.ononoki.org/
+    expectedStatusCodes:
+      - 200
+  - name: Tor
+    url: http://107.189.30.115:8080/
     expectedStatusCodes:
       - 200
 status-website:
