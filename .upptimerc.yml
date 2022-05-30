@@ -6,51 +6,47 @@ sites:
     url: ns1.ononoki.org
     port: 53
   - name: Homepage
-    url: https://ononoki.org/
+    url: https://ononoki.org
     expectedStatusCodes:
       - 200
   - name: "2048"
-    url: https://2048.ononoki.org/
+    url: https://2048.ononoki.org
     expectedStatusCodes:
       - 200
   - name: Blog
-    url: https://blog.ononoki.org/
+    url: https://blog.ononoki.org
     expectedStatusCodes:
       - 200
   - name: Comment
-    url: https://comment.ononoki.org/
+    url: https://comment.ononoki.org
     expectedStatusCodes:
       - 200
   - name: Drive
-    url: https://drive.ononoki.org/
+    url: https://drive.ononoki.org
     expectedStatusCodes:
       - 200
   - name: Index
-    url: https://index.ononoki.org/
+    url: https://index.ononoki.org
     expectedStatusCodes:
       - 200
   - name: IP
-    url: https://ip.ononoki.org/
+    url: https://ip.ononoki.org
     expectedStatusCodes:
       - 200
   - name: Morty
-    url: https://morty.ononoki.org/
+    url: https://morty.ononoki.org
     expectedStatusCodes:
       - 200
   - name: Paste
-    url: https://paste.ononoki.org/
-    expectedStatusCodes:
-      - 200
-  - name: Resume
-    url: https://resume.ononoki.org/
+    url: https://paste.ononoki.org
     expectedStatusCodes:
       - 200
   - name: Search
-    url: https://search.ononoki.org/
+    url: https://search.ononoki.org
     expectedStatusCodes:
       - 200
   - name: Tor
-    url: http://107.189.30.115:8080/
+    url: http://107.189.30.115:8080
     expectedStatusCodes:
       - 200
 status-website:
@@ -62,10 +58,10 @@ status-website:
     - title: Status
       href: /
     - title: Homepage
-      href: https://ononoki.org/
+      href: https://ononoki.org
   customHeadHtml: <script src="https://ononoki.org/js/m.js"></script><noscript><p><img src="https://ononoki.org/m/m.php?idsite=8&amp;rec=1" style="border:0;" alt="" /></p></noscript>
 i18n:
-  footer: Powered by <a href='https://ononoki.org/' rel='noopener' target='_blank'><strong>ononoki</strong></a>.
+  footer: Powered by <a href='https://ononoki.org' target='_blank'><strong>ononoki</strong></a>.
 skipDescriptionUpdate: true
 skipTopicsUpdate: true
 skipHomepageUpdate: true
