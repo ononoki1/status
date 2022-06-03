@@ -3,7 +3,7 @@ repo: status
 sites:
   - name: DNS
     check: tcp-ping
-    url: ns1.ononoki.org
+    url: 192.3.81.160
     port: 53
   - name: Homepage
     url: https://ononoki.org
@@ -46,7 +46,7 @@ sites:
     expectedStatusCodes:
       - 200
   - name: Tor
-    url: http://tor.ononoki.org:8080
+    url: http://107.189.30.115:8080
     expectedStatusCodes:
       - 200
 status-website:
