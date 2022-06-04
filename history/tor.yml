@@ -1,7 +1,7 @@
 url: http://107.189.30.115:8080
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2022-06-04T04:54:20.277Z
+status: up
+code: 200
+responseTime: 628
+lastUpdated: 2022-06-04T05:15:11.397Z
 startTime: Thu May 12 2022 09:06:15 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
