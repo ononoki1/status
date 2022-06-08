@@ -45,8 +45,12 @@ sites:
     url: https://search.ononoki.org
     expectedStatusCodes:
       - 200
-  - name: Tor
+  - name: Tor exit node
     url: http://107.189.30.115
+    expectedStatusCodes:
+      - 200
+  - name: URL shortener
+    url: https://uurl.cf
     expectedStatusCodes:
       - 200
 status-website:
