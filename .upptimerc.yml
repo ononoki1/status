@@ -46,7 +46,7 @@ sites:
     expectedStatusCodes:
       - 200
   - name: Tor
-    url: http://107.189.30.115:8080
+    url: http://107.189.30.115
     expectedStatusCodes:
       - 200
 status-website:
