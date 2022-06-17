@@ -226,9 +226,9 @@
     "url": "http://107.189.30.115",
     "icon": "https://favicons.githubusercontent.com/107.189.30.115",
     "slug": "tor-exit-node",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -237,7 +237,9 @@
     "timeWeek": 856,
     "timeMonth": 1069,
     "timeYear": 1069,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-17": 0
+    }
   },
   {
     "name": "URL shortener",
