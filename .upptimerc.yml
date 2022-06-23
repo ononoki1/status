@@ -1,7 +1,7 @@
 owner: ononoki1
 repo: status
 sites:
-  - name: DNS
+  - name: Authoritative name server
     check: tcp-ping
     url: 192.3.81.160
     port: 53
@@ -9,7 +9,7 @@ sites:
     url: https://ononoki.org
     expectedStatusCodes:
       - 200
-  - name: "2048"
+  - name: 2048 game
     url: https://2048.ononoki.org
     expectedStatusCodes:
       - 200
@@ -29,11 +29,11 @@ sites:
     url: https://index.ononoki.org
     expectedStatusCodes:
       - 200
-  - name: IP
+  - name: IP query
     url: https://ip.ononoki.org
     expectedStatusCodes:
       - 200
-  - name: Morty
+  - name: MortyProxy
     url: https://morty.ononoki.org
     expectedStatusCodes:
       - 200
