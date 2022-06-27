@@ -31,7 +31,7 @@
     "time": 243,
     "timeDay": 575,
     "timeWeek": 251,
-    "timeMonth": 232,
+    "timeMonth": 234,
     "timeYear": 243,
     "dailyMinutesDown": {
       "2022-06-02": 18,
@@ -70,7 +70,7 @@
     "time": 247,
     "timeDay": 149,
     "timeWeek": 251,
-    "timeMonth": 266,
+    "timeMonth": 265,
     "timeYear": 247,
     "dailyMinutesDown": {
       "2022-05-01": 61
@@ -83,17 +83,16 @@
     "slug": "comment",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.21%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 3279,
     "timeDay": 410,
     "timeWeek": 2776,
-    "timeMonth": 3212,
+    "timeMonth": 3206,
     "timeYear": 3279,
     "dailyMinutesDown": {
-      "2022-06-26": 11,
       "2022-05-01": 61
     }
   },
@@ -103,18 +102,17 @@
     "icon": "https://favicons.githubusercontent.com/drive.ononoki.org",
     "slug": "drive",
     "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "99.24%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.96%",
+    "uptime": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.97%",
     "time": 142,
     "timeDay": 111,
     "timeWeek": 198,
-    "timeMonth": 226,
+    "timeMonth": 228,
     "timeYear": 142,
     "dailyMinutesDown": {
-      "2022-06-26": 11,
       "2022-05-01": 61
     }
   },
@@ -132,7 +130,7 @@
     "time": 220,
     "timeDay": 143,
     "timeWeek": 235,
-    "timeMonth": 246,
+    "timeMonth": 249,
     "timeYear": 220,
     "dailyMinutesDown": {
       "2022-05-01": 61
@@ -206,7 +204,7 @@
     "time": 324,
     "timeDay": 214,
     "timeWeek": 214,
-    "timeMonth": 173,
+    "timeMonth": 164,
     "timeYear": 324,
     "dailyMinutesDown": {
       "2022-05-01": 61,
