@@ -46,13 +46,14 @@ sites:
     expectedStatusCodes:
       - 200
   - name: Tor exit node
-    url: http://107.189.30.115
-    expectedStatusCodes:
-      - 200
+    check: tcp-ping
+    url: 107.189.30.115
+    port: 443
   - name: URL shortener
     url: https://uurl.cf
     expectedStatusCodes:
       - 200
+      - 307
 status-website:
   cname: status.ononoki.org
   logoUrl: https://ononoki.org/images/ononoki.jpg
