@@ -1,23 +1,5 @@
 [
   {
-    "name": "Authoritative name server",
-    "url": "192.3.81.160",
-    "icon": "https://favicons.githubusercontent.com/null",
-    "slug": "authoritative-name-server",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 45,
-    "timeDay": 23,
-    "timeWeek": 38,
-    "timeMonth": 46,
-    "timeYear": 45,
-    "dailyMinutesDown": {}
-  },
-  {
     "name": "Homepage",
     "url": "https://ononoki.org",
     "icon": "https://favicons.githubusercontent.com/ononoki.org",
@@ -29,9 +11,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
     "time": 243,
-    "timeDay": 274,
-    "timeWeek": 255,
-    "timeMonth": 245,
+    "timeDay": 228,
+    "timeWeek": 246,
+    "timeMonth": 244,
     "timeYear": 243,
     "dailyMinutesDown": {
       "2022-07-26": 17,
@@ -51,9 +33,9 @@
     "uptimeMonth": "99.74%",
     "uptimeYear": "99.85%",
     "time": 326,
-    "timeDay": 306,
-    "timeWeek": 303,
-    "timeMonth": 301,
+    "timeDay": 314,
+    "timeWeek": 306,
+    "timeMonth": 302,
     "timeYear": 326,
     "dailyMinutesDown": {
       "2022-08-12": 95,
@@ -72,9 +54,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.95%",
     "time": 258,
-    "timeDay": 341,
-    "timeWeek": 276,
-    "timeMonth": 285,
+    "timeDay": 307,
+    "timeWeek": 275,
+    "timeMonth": 284,
     "timeYear": 258,
     "dailyMinutesDown": {
       "2022-07-26": 16,
@@ -94,11 +76,11 @@
     "uptimeWeek": "99.05%",
     "uptimeMonth": "99.78%",
     "uptimeYear": "99.94%",
-    "time": 3170,
-    "timeDay": 3845,
-    "timeWeek": 3127,
-    "timeMonth": 2757,
-    "timeYear": 3170,
+    "time": 3172,
+    "timeDay": 3743,
+    "timeWeek": 3173,
+    "timeMonth": 2779,
+    "timeYear": 3172,
     "dailyMinutesDown": {
       "2022-08-12": 95,
       "2022-05-01": 61
@@ -115,11 +97,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 165,
-    "timeDay": 197,
-    "timeWeek": 244,
+    "time": 166,
+    "timeDay": 219,
+    "timeWeek": 243,
     "timeMonth": 250,
-    "timeYear": 165,
+    "timeYear": 166,
     "dailyMinutesDown": {
       "2022-05-01": 61
     }
@@ -136,9 +118,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.95%",
     "time": 232,
-    "timeDay": 247,
-    "timeWeek": 239,
-    "timeMonth": 253,
+    "timeDay": 269,
+    "timeWeek": 246,
+    "timeMonth": 254,
     "timeYear": 232,
     "dailyMinutesDown": {
       "2022-07-26": 16,
@@ -157,11 +139,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
-    "time": 211,
-    "timeDay": 201,
-    "timeWeek": 153,
-    "timeMonth": 210,
-    "timeYear": 211,
+    "time": 209,
+    "timeDay": 167,
+    "timeWeek": 150,
+    "timeMonth": 207,
+    "timeYear": 209,
     "dailyMinutesDown": {
       "2022-07-26": 15
     }
@@ -177,11 +159,11 @@
     "uptimeWeek": "99.05%",
     "uptimeMonth": "99.78%",
     "uptimeYear": "99.87%",
-    "time": 188,
-    "timeDay": 268,
-    "timeWeek": 179,
-    "timeMonth": 202,
-    "timeYear": 188,
+    "time": 195,
+    "timeDay": 377,
+    "timeWeek": 226,
+    "timeMonth": 212,
+    "timeYear": 195,
     "dailyMinutesDown": {
       "2022-08-12": 95
     }
@@ -197,11 +179,11 @@
     "uptimeWeek": "99.05%",
     "uptimeMonth": "99.78%",
     "uptimeYear": "99.89%",
-    "time": 283,
-    "timeDay": 244,
-    "timeWeek": 290,
-    "timeMonth": 304,
-    "timeYear": 283,
+    "time": 282,
+    "timeDay": 232,
+    "timeWeek": 281,
+    "timeMonth": 301,
+    "timeYear": 282,
     "dailyMinutesDown": {
       "2022-08-12": 95,
       "2022-06-30": 20
@@ -218,43 +200,16 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
-    "time": 291,
-    "timeDay": 205,
-    "timeWeek": 168,
-    "timeMonth": 195,
-    "timeYear": 291,
+    "time": 292,
+    "timeDay": 306,
+    "timeWeek": 198,
+    "timeMonth": 201,
+    "timeYear": 292,
     "dailyMinutesDown": {
       "2022-05-01": 61,
       "2022-04-09": 35,
       "2022-04-05": 31,
       "2022-03-18": 18
-    }
-  },
-  {
-    "name": "Tor exit node",
-    "url": "107.189.30.115",
-    "icon": "https://favicons.githubusercontent.com/null",
-    "slug": "tor-exit-node",
-    "status": "up",
-    "uptime": "98.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.85%",
-    "uptimeYear": "98.98%",
-    "time": 525,
-    "timeDay": 94,
-    "timeWeek": 111,
-    "timeMonth": 415,
-    "timeYear": 525,
-    "dailyMinutesDown": {
-      "2022-08-04": 140,
-      "2022-08-03": 512,
-      "2022-08-02": 89,
-      "2022-07-31": 42,
-      "2022-07-22": 86,
-      "2022-07-21": 46,
-      "2022-07-20": 27,
-      "2022-06-17": 19
     }
   }
 ]
