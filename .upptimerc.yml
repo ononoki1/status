@@ -17,10 +17,6 @@ sites:
     url: https://comment.ononoki.org
     expectedStatusCodes:
       - 200
-  - name: Drive
-    url: https://drive.ononoki.org
-    expectedStatusCodes:
-      - 200
   - name: Index
     url: https://index.ononoki.org
     expectedStatusCodes:
