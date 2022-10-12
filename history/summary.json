@@ -133,9 +133,9 @@
     "url": "https://morty.ononoki.org",
     "icon": "https://icons.duckduckgo.com/ip3/morty.ononoki.org.ico",
     "slug": "morty-proxy",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
@@ -145,6 +145,7 @@
     "timeMonth": 476,
     "timeYear": 317,
     "dailyMinutesDown": {
+      "2022-10-12": 0,
       "2022-08-12": 95
     }
   },
