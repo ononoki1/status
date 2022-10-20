@@ -79,9 +79,9 @@
     "url": "https://comment.ononoki.org",
     "icon": "https://icons.duckduckgo.com/ip3/comment.ononoki.org.ico",
     "slug": "comment",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
@@ -91,6 +91,7 @@
     "timeMonth": 3147,
     "timeYear": 3161,
     "dailyMinutesDown": {
+      "2022-10-20": 0,
       "2022-08-12": 95,
       "2022-05-01": 61
     }
