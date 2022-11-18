@@ -1,6 +1,10 @@
 owner: ononoki1
 repo: status
 sites:
+  - name: Authoritative DNS
+    check: tcp-ping
+    url: 192.3.81.160
+    port: 53
   - name: Homepage
     url: https://ononoki.org
     expectedStatusCodes:
