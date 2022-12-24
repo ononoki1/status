@@ -51,9 +51,9 @@ status-website:
       href: /
     - title: Homepage
       href: https://ononoki.org
-  customHeadHtml: <script src="//ononoki.org/js/m.js"></script><noscript><p><img src="//ononoki.org/m/m.php?idsite=8&amp;rec=1" style="border:0;" alt="" /></p></noscript>
+  customHeadHtml: <script src="https://ononoki.org/js/m.js"></script><noscript><p><img src="https://ononoki.org/m/m.php?idsite=8&amp;rec=1" style="border:0;" alt="" /></p></noscript>
 i18n:
-  footer: <small>Powered by <a href="//ononoki.org"><strong>ononoki</strong></a>.</small>
+  footer: <small>Powered by <a href="https://ononoki.org"><strong>ononoki</strong></a>.</small>
 skipDescriptionUpdate: true
 skipTopicsUpdate: true
 skipHomepageUpdate: true
