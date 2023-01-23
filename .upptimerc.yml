@@ -65,7 +65,7 @@ status-website:
   customHeadHtml: <script src="https://ononoki.org/js/m.js"></script><noscript><p><img src="https://ononoki.org/m/m.php?idsite=8&amp;rec=1" style="border:0;" alt="" /></p></noscript>
   links:
     - rel: stylesheet
-      href: https://ononoki.org/css/font.css
+      href: https://ononoki.org/css/font-no-mono.css
 i18n:
   footer: <small>Powered by <a href="https://ononoki.org"><strong>ononoki</strong></a>.</small>
 skipDescriptionUpdate: true
