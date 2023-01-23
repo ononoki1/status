@@ -52,7 +52,7 @@ sites:
     expectedStatusCodes:
       - 200
 status-website:
-  theme: ocean
+  theme: light
   cname: status.ononoki.org
   logoUrl: https://ononoki.org/images/ononoki.jpg
   name: ononoki's Status
@@ -71,4 +71,3 @@ i18n:
 skipDescriptionUpdate: true
 skipTopicsUpdate: true
 skipHomepageUpdate: true
-robotsText: "User-Agent: *\nDisallow:\n"
