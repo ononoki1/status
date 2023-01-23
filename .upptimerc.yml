@@ -5,43 +5,54 @@ sites:
     check: tcp-ping
     url: 192.3.81.160
     port: 53
+    maxResponseTime: 500
   - name: Homepage
     url: https://ononoki.org
+    maxResponseTime: 1000
     expectedStatusCodes:
       - 200
   - name: 2048 game
     url: https://2048.ononoki.org
+    maxResponseTime: 1000
     expectedStatusCodes:
       - 200
   - name: Blog
     url: https://blog.ononoki.org
+    maxResponseTime: 1000
     expectedStatusCodes:
       - 200
   - name: Comment
     url: https://comment.ononoki.org
+    maxResponseTime: 5000
     expectedStatusCodes:
       - 200
   - name: Index
     url: https://index.ononoki.org
+    maxResponseTime: 1000
     expectedStatusCodes:
       - 200
   - name: IP query
     url: https://ip.ononoki.org
+    maxResponseTime: 1000
     expectedStatusCodes:
       - 200
   - name: MortyProxy
     url: https://morty.ononoki.org
+    maxResponseTime: 3000
     expectedStatusCodes:
       - 200
   - name: Pastebin
     url: https://paste.ononoki.org
+    maxResponseTime: 3000
     expectedStatusCodes:
       - 200
   - name: Search
     url: https://search.ononoki.org
+    maxResponseTime: 3000
     expectedStatusCodes:
       - 200
 status-website:
+  theme: ocean
   cname: status.ononoki.org
   logoUrl: https://ononoki.org/images/ononoki.jpg
   name: ononoki's Status
@@ -52,8 +63,12 @@ status-website:
     - title: Homepage
       href: https://ononoki.org
   customHeadHtml: <script src="https://ononoki.org/js/m.js"></script><noscript><p><img src="https://ononoki.org/m/m.php?idsite=8&amp;rec=1" style="border:0;" alt="" /></p></noscript>
+  links:
+    - rel: stylesheet
+      href: https://ononoki.org/css/font.css
 i18n:
   footer: <small>Powered by <a href="https://ononoki.org"><strong>ononoki</strong></a>.</small>
 skipDescriptionUpdate: true
 skipTopicsUpdate: true
 skipHomepageUpdate: true
+robotsText: "User-Agent: *\nDisallow:\n"
