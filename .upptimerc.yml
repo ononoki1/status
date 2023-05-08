@@ -3,7 +3,7 @@ repo: status
 sites:
   - name: Authoritative DNS
     check: tcp-ping
-    url: 192.3.81.160
+    url: 45.32.132.24
     port: 53
     maxResponseTime: 500
   - name: Homepage
