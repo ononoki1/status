@@ -3,17 +3,17 @@ repo: status
 sites:
   - name: Homepage
     url: https://ononoki.org
-    maxResponseTime: 1000
+    maxResponseTime: 3000
     expectedStatusCodes:
       - 200
   - name: 2048 game
     url: https://2048.ononoki.org
-    maxResponseTime: 1000
+    maxResponseTime: 3000
     expectedStatusCodes:
       - 200
   - name: Blog
     url: https://blog.ononoki.org
-    maxResponseTime: 1000
+    maxResponseTime: 3000
     expectedStatusCodes:
       - 200
   - name: Comment
@@ -23,32 +23,32 @@ sites:
       - 200
   - name: Index
     url: https://index.ononoki.org
-    maxResponseTime: 1000
+    maxResponseTime: 3000
     expectedStatusCodes:
       - 200
   - name: IP query
     url: https://ip.ononoki.org
-    maxResponseTime: 1000
+    maxResponseTime: 3000
     expectedStatusCodes:
       - 200
   - name: MortyProxy
     url: https://morty.ononoki.org
-    maxResponseTime: 3000
+    maxResponseTime: 5000
     expectedStatusCodes:
       - 200
   - name: Pastebin
     url: https://paste.ononoki.org
-    maxResponseTime: 3000
+    maxResponseTime: 5000
     expectedStatusCodes:
       - 200
   - name: Search
     url: https://search.ononoki.org
-    maxResponseTime: 3000
+    maxResponseTime: 5000
     expectedStatusCodes:
       - 200
   - name: URL shortener
     url: https://uurl.cf
-    maxResponseTime: 3000
+    maxResponseTime: 5000
     expectedStatusCodes:
       - 200
 status-website:
