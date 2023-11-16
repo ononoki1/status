@@ -1,7 +1,7 @@
 url: https://index.ononoki.org
-status: up
+status: degraded
 code: 200
-responseTime: 606
-lastUpdated: 2023-11-15T23:10:30.435Z
+responseTime: 5366
+lastUpdated: 2023-11-16T09:39:57.837Z
 startTime: 2022-04-05T09:04:54.000Z
 generator: Upptime <https://github.com/upptime/upptime>
