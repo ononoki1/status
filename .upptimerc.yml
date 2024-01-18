@@ -36,12 +36,12 @@ sites:
     maxResponseTime: 5000
     expectedStatusCodes:
       - 200
-  - name: Pastebin
+  - name: PrivateBin
     url: https://paste.ononoki.org
     maxResponseTime: 5000
     expectedStatusCodes:
       - 200
-  - name: Search
+  - name: SearXNG
     url: https://search.ononoki.org
     maxResponseTime: 5000
     expectedStatusCodes:
