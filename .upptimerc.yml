@@ -46,11 +46,6 @@ sites:
     maxResponseTime: 5000
     expectedStatusCodes:
       - 200
-  - name: URL shortener
-    url: https://uurl.cf
-    maxResponseTime: 5000
-    expectedStatusCodes:
-      - 200
 status-website:
   theme: light
   cname: status.ononoki.org
