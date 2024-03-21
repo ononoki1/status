@@ -178,18 +178,19 @@
     "url": "https://search.ononoki.org",
     "icon": "https://icons.duckduckgo.com/ip3/search.ononoki.org.ico",
     "slug": "sear-xng",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.79%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.79%",
-    "time": 351,
-    "timeDay": 330,
-    "timeWeek": 386,
-    "timeMonth": 358,
-    "timeYear": 351,
+    "time": 439,
+    "timeDay": 3276,
+    "timeWeek": 1116,
+    "timeMonth": 553,
+    "timeYear": 439,
     "dailyMinutesDown": {
+      "2024-03-21": 0,
       "2024-02-01": 186
     }
   }
