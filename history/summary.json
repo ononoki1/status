@@ -114,9 +114,9 @@
     "url": "https://ip.ononoki.org",
     "icon": "https://icons.duckduckgo.com/ip3/ip.ononoki.org.ico",
     "slug": "ip-query",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.70%",
@@ -126,6 +126,7 @@
     "timeMonth": 228,
     "timeYear": 666,
     "dailyMinutesDown": {
+      "2024-05-30": 0,
       "2024-02-01": 186,
       "2023-09-02": 981,
       "2023-09-01": 409
