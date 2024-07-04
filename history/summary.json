@@ -27,9 +27,9 @@
     "url": "https://2048.ononoki.org",
     "icon": "https://icons.duckduckgo.com/ip3/2048.ononoki.org.ico",
     "slug": "2048-game",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.70%",
@@ -39,6 +39,7 @@
     "timeMonth": 306,
     "timeYear": 671,
     "dailyMinutesDown": {
+      "2024-07-04": 0,
       "2024-02-01": 186,
       "2023-09-02": 981,
       "2023-09-01": 409
