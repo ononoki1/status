@@ -152,9 +152,9 @@
     "url": "https://paste.ononoki.org",
     "icon": "https://icons.duckduckgo.com/ip3/paste.ononoki.org.ico",
     "slug": "private-bin",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -164,6 +164,7 @@
     "timeMonth": 930,
     "timeYear": 763,
     "dailyMinutesDown": {
+      "2025-04-23": 0,
       "2024-07-19": 25
     }
   },
