@@ -33,17 +33,17 @@ sites:
       - 200
   - name: MortyProxy
     url: https://morty.ononoki.org
-    maxResponseTime: 5000
+    maxResponseTime: 3000
     expectedStatusCodes:
       - 200
   - name: PrivateBin
     url: https://paste.ononoki.org
-    maxResponseTime: 5000
+    maxResponseTime: 3000
     expectedStatusCodes:
       - 200
   - name: SearXNG
     url: https://search.ononoki.org
-    maxResponseTime: 5000
+    maxResponseTime: 3000
     expectedStatusCodes:
       - 200
 status-website:
@@ -57,7 +57,7 @@ status-website:
       href: /
     - title: Homepage
       href: https://ononoki.org
-  customHeadHtml: <script src="https://ononoki.org/js/m.js"></script><noscript><p><img src="https://ononoki.org/m/m.php?idsite=8&amp;rec=1" style="border:0;" alt="" /></p></noscript>
+  customHeadHtml: <script src="https://ononoki.org/js/m.js"></script><noscript><p><img referrerpolicy="unsafe-url" src="https://ononoki.org/m/m.php?idsite=8&amp;rec=1" style="border: 0" alt="" /></p></noscript>
   links:
     - rel: stylesheet
       href: https://ononoki.org/css/font.css
