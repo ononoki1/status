@@ -10,14 +10,13 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 704,
-    "timeDay": 742,
-    "timeWeek": 787,
+    "time": 705,
+    "timeDay": 888,
+    "timeWeek": 792,
     "timeMonth": 809,
-    "timeYear": 775,
+    "timeYear": 776,
     "dailyMinutesDown": {
-      "2024-08-24": 19,
-      "2024-07-19": 25
+      "2024-08-24": 19
     }
   },
   {
@@ -32,15 +31,14 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 654,
-    "timeDay": 736,
-    "timeWeek": 772,
+    "timeDay": 888,
+    "timeWeek": 779,
     "timeMonth": 777,
-    "timeYear": 722,
+    "timeYear": 723,
     "dailyMinutesDown": {
       "2025-06-12": 105,
       "2024-11-12": 19,
-      "2024-08-24": 18,
-      "2024-07-19": 25
+      "2024-08-24": 18
     }
   },
   {
@@ -55,13 +53,12 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 678,
-    "timeDay": 623,
-    "timeWeek": 752,
-    "timeMonth": 794,
+    "timeDay": 739,
+    "timeWeek": 738,
+    "timeMonth": 789,
     "timeYear": 743,
     "dailyMinutesDown": {
-      "2024-08-24": 18,
-      "2024-07-19": 25
+      "2024-08-24": 18
     }
   },
   {
@@ -75,11 +72,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2649,
-    "timeDay": 1640,
-    "timeWeek": 2473,
-    "timeMonth": 2925,
-    "timeYear": 2595,
+    "time": 2656,
+    "timeDay": 3487,
+    "timeWeek": 2496,
+    "timeMonth": 2945,
+    "timeYear": 2598,
     "dailyMinutesDown": {}
   },
   {
@@ -88,19 +85,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/index.ononoki.org.ico",
     "slug": "index",
     "status": "up",
-    "uptime": "99.86%",
+    "uptime": "99.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 647,
-    "timeDay": 681,
-    "timeWeek": 724,
-    "timeMonth": 767,
+    "time": 648,
+    "timeDay": 887,
+    "timeWeek": 729,
+    "timeMonth": 768,
     "timeYear": 714,
     "dailyMinutesDown": {
-      "2025-06-12": 105,
-      "2024-07-19": 25
+      "2025-06-12": 105
     }
   },
   {
@@ -115,13 +111,12 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 624,
-    "timeDay": 678,
-    "timeWeek": 717,
+    "timeDay": 878,
+    "timeWeek": 722,
     "timeMonth": 738,
-    "timeYear": 684,
+    "timeYear": 685,
     "dailyMinutesDown": {
-      "2025-06-12": 105,
-      "2024-07-19": 25
+      "2025-06-12": 105
     }
   },
   {
@@ -131,13 +126,13 @@
     "slug": "morty-proxy",
     "status": "up",
     "uptime": "99.83%",
-    "uptimeDay": "98.09%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.73%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.96%",
     "time": 257,
-    "timeDay": 335,
-    "timeWeek": 280,
+    "timeDay": 299,
+    "timeWeek": 279,
     "timeMonth": 321,
     "timeYear": 258,
     "dailyMinutesDown": {
@@ -159,14 +154,13 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 816,
-    "timeDay": 951,
-    "timeWeek": 953,
-    "timeMonth": 1000,
+    "timeDay": 1143,
+    "timeWeek": 979,
+    "timeMonth": 1001,
     "timeYear": 907,
     "dailyMinutesDown": {
       "2025-06-15": 19,
-      "2025-04-23": 23,
-      "2024-07-19": 25
+      "2025-04-23": 23
     }
   },
   {
@@ -176,14 +170,14 @@
     "slug": "sear-xng",
     "status": "up",
     "uptime": "98.43%",
-    "uptimeDay": "91.98%",
-    "uptimeWeek": "55.55%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "65.89%",
     "uptimeMonth": "77.00%",
     "uptimeYear": "98.05%",
     "time": 202,
-    "timeDay": 201,
-    "timeWeek": 195,
-    "timeMonth": 218,
+    "timeDay": 323,
+    "timeWeek": 209,
+    "timeMonth": 219,
     "timeYear": 174,
     "dailyMinutesDown": {
       "2025-07-17": 116,
