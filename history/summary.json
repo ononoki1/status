@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 705,
-    "timeDay": 723,
-    "timeWeek": 815,
-    "timeMonth": 802,
-    "timeYear": 785,
+    "time": 704,
+    "timeDay": 654,
+    "timeWeek": 786,
+    "timeMonth": 792,
+    "timeYear": 786,
     "dailyMinutesDown": {
       "2024-08-24": 19
     }
@@ -31,10 +31,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 654,
-    "timeDay": 677,
-    "timeWeek": 790,
-    "timeMonth": 773,
-    "timeYear": 732,
+    "timeDay": 645,
+    "timeWeek": 760,
+    "timeMonth": 762,
+    "timeYear": 733,
     "dailyMinutesDown": {
       "2025-06-12": 105,
       "2024-11-12": 19,
@@ -53,10 +53,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 679,
-    "timeDay": 705,
-    "timeWeek": 796,
-    "timeMonth": 778,
-    "timeYear": 753,
+    "timeDay": 675,
+    "timeWeek": 788,
+    "timeMonth": 771,
+    "timeYear": 754,
     "dailyMinutesDown": {
       "2024-08-24": 18
     }
@@ -72,11 +72,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2680,
-    "timeDay": 3687,
-    "timeWeek": 2116,
-    "timeMonth": 2702,
-    "timeYear": 2571,
+    "time": 2686,
+    "timeDay": 2982,
+    "timeWeek": 2053,
+    "timeMonth": 2706,
+    "timeYear": 2570,
     "dailyMinutesDown": {}
   },
   {
@@ -91,10 +91,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 649,
-    "timeDay": 687,
-    "timeWeek": 809,
-    "timeMonth": 775,
-    "timeYear": 724,
+    "timeDay": 655,
+    "timeWeek": 780,
+    "timeMonth": 768,
+    "timeYear": 725,
     "dailyMinutesDown": {
       "2025-06-12": 105
     }
@@ -110,11 +110,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 626,
-    "timeDay": 562,
-    "timeWeek": 743,
-    "timeMonth": 737,
-    "timeYear": 694,
+    "time": 625,
+    "timeDay": 537,
+    "timeWeek": 701,
+    "timeMonth": 728,
+    "timeYear": 695,
     "dailyMinutesDown": {
       "2025-06-12": 105
     }
@@ -131,10 +131,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 817,
-    "timeDay": 776,
-    "timeWeek": 994,
-    "timeMonth": 984,
-    "timeYear": 920,
+    "timeDay": 852,
+    "timeWeek": 958,
+    "timeMonth": 974,
+    "timeYear": 921,
     "dailyMinutesDown": {
       "2025-06-15": 19,
       "2025-04-23": 23
@@ -147,15 +147,15 @@
     "slug": "sear-xng",
     "status": "up",
     "uptime": "98.27%",
-    "uptimeDay": "72.88%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "85.41%",
     "uptimeMonth": "73.64%",
     "uptimeYear": "97.77%",
     "time": 200,
-    "timeDay": 358,
-    "timeWeek": 228,
-    "timeMonth": 219,
-    "timeYear": 175,
+    "timeDay": 259,
+    "timeWeek": 223,
+    "timeMonth": 220,
+    "timeYear": 176,
     "dailyMinutesDown": {
       "2025-07-24": 444,
       "2025-07-23": 287,
