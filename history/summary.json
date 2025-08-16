@@ -66,19 +66,19 @@
     "url": "https://comment.ononoki.org",
     "icon": "https://icons.duckduckgo.com/ip3/comment.ononoki.org.ico",
     "slug": "comment",
-    "status": "down",
+    "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.15%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 2677,
-    "timeDay": 2861,
-    "timeWeek": 2591,
-    "timeMonth": 2150,
-    "timeYear": 2553,
+    "time": 2683,
+    "timeDay": 3199,
+    "timeWeek": 2709,
+    "timeMonth": 2189,
+    "timeYear": 2556,
     "dailyMinutesDown": {
-      "2025-08-16": 0
+      "2025-08-16": 12
     }
   },
   {
@@ -151,7 +151,7 @@
     "uptime": "97.38%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "92.54%",
-    "uptimeMonth": "78.07%",
+    "uptimeMonth": "78.10%",
     "uptimeYear": "96.27%",
     "time": 194,
     "timeDay": 306,
