@@ -11,13 +11,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 705,
-    "timeDay": 644,
-    "timeWeek": 828,
-    "timeMonth": 815,
-    "timeYear": 822,
-    "dailyMinutesDown": {
-      "2024-08-24": 19
-    }
+    "timeDay": 702,
+    "timeWeek": 821,
+    "timeMonth": 812,
+    "timeYear": 823,
+    "dailyMinutesDown": {}
   },
   {
     "name": "2048 game",
@@ -31,14 +29,13 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 656,
-    "timeDay": 656,
-    "timeWeek": 796,
-    "timeMonth": 785,
-    "timeYear": 770,
+    "timeDay": 777,
+    "timeWeek": 792,
+    "timeMonth": 792,
+    "timeYear": 771,
     "dailyMinutesDown": {
       "2025-06-12": 105,
-      "2024-11-12": 19,
-      "2024-08-24": 18
+      "2024-11-12": 19
     }
   },
   {
@@ -53,13 +50,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 679,
-    "timeDay": 644,
-    "timeWeek": 794,
-    "timeMonth": 795,
+    "timeDay": 588,
+    "timeWeek": 762,
+    "timeMonth": 796,
     "timeYear": 791,
-    "dailyMinutesDown": {
-      "2024-08-24": 18
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Comment",
@@ -72,11 +67,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2679,
-    "timeDay": 2652,
-    "timeWeek": 2517,
-    "timeMonth": 2336,
-    "timeYear": 2553,
+    "time": 2677,
+    "timeDay": 2830,
+    "timeWeek": 2379,
+    "timeMonth": 2394,
+    "timeYear": 2551,
     "dailyMinutesDown": {}
   },
   {
@@ -90,11 +85,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 650,
-    "timeDay": 541,
-    "timeWeek": 761,
-    "timeMonth": 768,
-    "timeYear": 761,
+    "time": 649,
+    "timeDay": 591,
+    "timeWeek": 735,
+    "timeMonth": 763,
+    "timeYear": 762,
     "dailyMinutesDown": {
       "2025-06-12": 105
     }
@@ -105,15 +100,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/ip.ononoki.org.ico",
     "slug": "ip-query",
     "status": "up",
-    "uptime": "99.86%",
+    "uptime": "99.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 625,
-    "timeDay": 534,
-    "timeWeek": 705,
-    "timeMonth": 740,
+    "timeDay": 592,
+    "timeWeek": 696,
+    "timeMonth": 737,
     "timeYear": 731,
     "dailyMinutesDown": {
       "2025-06-12": 105
@@ -130,11 +125,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 818,
-    "timeDay": 813,
-    "timeWeek": 887,
-    "timeMonth": 956,
-    "timeYear": 968,
+    "time": 817,
+    "timeDay": 800,
+    "timeWeek": 868,
+    "timeMonth": 953,
+    "timeYear": 969,
     "dailyMinutesDown": {
       "2025-06-15": 19,
       "2025-04-23": 23
@@ -146,16 +141,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/search.ononoki.org.ico",
     "slug": "sear-xng",
     "status": "up",
-    "uptime": "97.40%",
+    "uptime": "97.41%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "80.18%",
+    "uptimeMonth": "80.95%",
     "uptimeYear": "96.27%",
     "time": 183,
-    "timeDay": 261,
-    "timeWeek": 257,
+    "timeDay": 227,
+    "timeWeek": 270,
     "timeMonth": 245,
-    "timeYear": 181,
+    "timeYear": 182,
     "dailyMinutesDown": {
       "2025-08-15": 20,
       "2025-08-11": 732,
