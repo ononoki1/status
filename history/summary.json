@@ -61,18 +61,19 @@
     "url": "https://comment.ononoki.org",
     "icon": "https://icons.duckduckgo.com/ip3/comment.ononoki.org.ico",
     "slug": "comment",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.27%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.26%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.99%",
-    "time": 2639,
+    "time": 2638,
     "timeDay": 3455,
     "timeWeek": 2700,
     "timeMonth": 2378,
     "timeYear": 2561,
     "dailyMinutesDown": {
+      "2025-08-29": 0,
       "2025-08-27": 17,
       "2025-08-25": 57
     }
