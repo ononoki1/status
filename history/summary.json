@@ -63,9 +63,9 @@
     "slug": "comment",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "96.75%",
-    "uptimeWeek": "98.80%",
-    "uptimeMonth": "99.72%",
+    "uptimeDay": "97.64%",
+    "uptimeWeek": "98.93%",
+    "uptimeMonth": "99.75%",
     "uptimeYear": "99.98%",
     "time": 2613,
     "timeDay": 1044,
@@ -73,7 +73,7 @@
     "timeMonth": 2248,
     "timeYear": 2542,
     "dailyMinutesDown": {
-      "2025-08-29": 47,
+      "2025-08-29": 34,
       "2025-08-27": 17,
       "2025-08-25": 57
     }
