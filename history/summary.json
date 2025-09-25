@@ -13,7 +13,7 @@
     "time": 730,
     "timeDay": 882,
     "timeWeek": 764,
-    "timeMonth": 832,
+    "timeMonth": 831,
     "timeYear": 830,
     "dailyMinutesDown": {}
   },
@@ -52,7 +52,7 @@
     "time": 706,
     "timeDay": 881,
     "timeWeek": 770,
-    "timeMonth": 889,
+    "timeMonth": 891,
     "timeYear": 803,
     "dailyMinutesDown": {}
   },
@@ -63,17 +63,16 @@
     "slug": "comment",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.67%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.60%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.61%",
     "uptimeYear": "99.97%",
     "time": 2661,
     "timeDay": 3630,
     "timeWeek": 2503,
-    "timeMonth": 2437,
+    "timeMonth": 2479,
     "timeYear": 2550,
     "dailyMinutesDown": {
-      "2025-09-24": 5,
       "2025-09-06": 25,
       "2025-09-02": 20,
       "2025-08-31": 17,
@@ -96,7 +95,7 @@
     "time": 673,
     "timeDay": 864,
     "timeWeek": 760,
-    "timeMonth": 806,
+    "timeMonth": 810,
     "timeYear": 769,
     "dailyMinutesDown": {
       "2025-06-12": 105
@@ -116,7 +115,7 @@
     "time": 653,
     "timeDay": 855,
     "timeWeek": 732,
-    "timeMonth": 794,
+    "timeMonth": 793,
     "timeYear": 741,
     "dailyMinutesDown": {
       "2025-06-12": 105
@@ -136,7 +135,7 @@
     "time": 856,
     "timeDay": 1130,
     "timeWeek": 947,
-    "timeMonth": 1062,
+    "timeMonth": 1068,
     "timeYear": 983,
     "dailyMinutesDown": {
       "2025-06-15": 19,
@@ -157,7 +156,7 @@
     "time": 181,
     "timeDay": 301,
     "timeWeek": 248,
-    "timeMonth": 247,
+    "timeMonth": 251,
     "timeYear": 190,
     "dailyMinutesDown": {
       "2025-08-27": 124,
