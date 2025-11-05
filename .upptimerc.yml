@@ -36,6 +36,11 @@ sites:
     maxResponseTime: 3000
     expectedStatusCodes:
       - 200
+  - name: PDF processor
+    url: https://pdf.ononoki.org
+    maxResponseTime: 3000
+    expectedStatusCodes:
+      - 200
   - name: SearXNG
     url: https://search.ononoki.org
     maxResponseTime: 3000
