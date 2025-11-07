@@ -6,7 +6,7 @@ sites:
     maxResponseTime: 3000
     expectedStatusCodes:
       - 200
-  - name: 2048 game
+  - name: 2048 Game
     url: https://2048.ononoki.org
     maxResponseTime: 3000
     expectedStatusCodes:
@@ -26,7 +26,7 @@ sites:
     maxResponseTime: 3000
     expectedStatusCodes:
       - 200
-  - name: IP query
+  - name: IP Query
     url: https://ip.ononoki.org
     maxResponseTime: 3000
     expectedStatusCodes:
@@ -36,7 +36,7 @@ sites:
     maxResponseTime: 3000
     expectedStatusCodes:
       - 200
-  - name: PDF processor
+  - name: PDF Processor
     url: https://pdf.ononoki.org
     maxResponseTime: 3000
     expectedStatusCodes:
