@@ -150,18 +150,20 @@
     "url": "https://pdf.ononoki.org",
     "icon": "https://icons.duckduckgo.com/ip3/pdf.ononoki.org.ico",
     "slug": "pdf-processor",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1575,
-    "timeDay": 1365,
-    "timeWeek": 1575,
-    "timeMonth": 1575,
-    "timeYear": 1575,
-    "dailyMinutesDown": {}
+    "time": 1464,
+    "timeDay": 1084,
+    "timeWeek": 1464,
+    "timeMonth": 1464,
+    "timeYear": 1464,
+    "dailyMinutesDown": {
+      "2025-11-09": 0
+    }
   },
   {
     "name": "SearXNG",
