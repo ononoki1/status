@@ -150,19 +150,19 @@
     "url": "https://pdf.ononoki.org",
     "icon": "https://icons.duckduckgo.com/ip3/pdf.ononoki.org.ico",
     "slug": "pdf-processor",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1464,
-    "timeDay": 1084,
-    "timeWeek": 1464,
-    "timeMonth": 1464,
-    "timeYear": 1464,
+    "status": "up",
+    "uptime": "99.60%",
+    "uptimeDay": "98.34%",
+    "uptimeWeek": "99.60%",
+    "uptimeMonth": "99.60%",
+    "uptimeYear": "99.60%",
+    "time": 1435,
+    "timeDay": 1133,
+    "timeWeek": 1435,
+    "timeMonth": 1435,
+    "timeYear": 1435,
     "dailyMinutesDown": {
-      "2025-11-09": 0
+      "2025-11-09": 24
     }
   },
   {
