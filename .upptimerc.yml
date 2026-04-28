@@ -3,49 +3,22 @@ repo: status
 sites:
   - name: Homepage
     url: https://ononoki.org
-    maxResponseTime: 3000
-    expectedStatusCodes:
-      - 200
   - name: 2048 Game
     url: https://2048.ononoki.org
-    maxResponseTime: 3000
-    expectedStatusCodes:
-      - 200
   - name: Blog
     url: https://blog.ononoki.org
-    maxResponseTime: 3000
-    expectedStatusCodes:
-      - 200
   - name: Comment
     url: https://comment.ononoki.org
-    maxResponseTime: 5000
-    expectedStatusCodes:
-      - 200
   - name: Index
     url: https://index.ononoki.org
-    maxResponseTime: 3000
-    expectedStatusCodes:
-      - 200
   - name: IP Query
     url: https://ip.ononoki.org
-    maxResponseTime: 3000
-    expectedStatusCodes:
-      - 200
   - name: PrivateBin
     url: https://paste.ononoki.org
-    maxResponseTime: 3000
-    expectedStatusCodes:
-      - 200
   - name: PDF Processor
     url: https://pdf.ononoki.org
-    maxResponseTime: 3000
-    expectedStatusCodes:
-      - 200
   - name: SearXNG
     url: https://search.ononoki.org
-    maxResponseTime: 3000
-    expectedStatusCodes:
-      - 200
 status-website:
   theme: light
   cname: status.ononoki.org
